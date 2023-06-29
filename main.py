@@ -404,9 +404,7 @@ end_time = time.time()
 
 total_time = end_time - start_time
 print("total_time: ",total_time)
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
 
 
 # Press the green button in the gutter to run the script.
